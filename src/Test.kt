@@ -7,6 +7,7 @@ fun main() {
     val buildings = arrayListOf<Building>()
     buildings.add(house)
     buildings.add(school)
+    buildings.add(newHouse)
     buildings.add(school3)
 
     val city = City(buildings)
