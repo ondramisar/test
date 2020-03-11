@@ -11,4 +11,5 @@ fun main() {
     println(city.returnNumberOfBuilding().toString())
     println(city.returnNameOfFirst())
     println(house.isNumberOfFlatNotZero().toString())
+    println(school.getWall())
 }
