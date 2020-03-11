@@ -1,6 +1,7 @@
 fun main() {
     val house = House(4)
     val newHouse = Department(2)
+    val newHouse2 = Department(2)
     val school = School()
     val school3 = School()
 
@@ -9,6 +10,7 @@ fun main() {
     buildings.add(school)
     buildings.add(newHouse)
     buildings.add(school3)
+    buildings.add(newHouse2)
 
     val city = City(buildings)
 
