@@ -1,5 +1,6 @@
 fun main() {
     val house = House(4)
+    val newHouse = Department(2)
     val school = School()
 
     val buildings = arrayListOf<Building>()
@@ -11,4 +12,5 @@ fun main() {
     println(city.returnNumberOfBuilding().toString())
     println(city.returnNameOfFirst())
     println(house.isNumberOfFlatNotZero().toString())
+    println(school.getWall())
 }
