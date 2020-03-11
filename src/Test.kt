@@ -1,5 +1,6 @@
 fun main() {
     val house = House(4)
+    val newHouse = Department(2)
     val school = School()
 
     val buildings = arrayListOf<Building>()
