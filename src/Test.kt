@@ -19,7 +19,7 @@ fun main() {
     println(newHouse.numberOfFlat.toString())
     println("Lopata")
 
-
+    println("Kebab")
     println("ahoj")
     println(city.returnNumberOfBuilding().toString())
     println(city.returnNameOfFirst())
