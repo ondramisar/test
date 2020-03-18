@@ -17,7 +17,7 @@ fun main() {
     val city = City(buildings)
 
     println(newHouse.numberOfFlat.toString())
-    println("Loupak")
+    println("Lopata")
 
     println(city.returnNumberOfBuilding().toString())
     println(city.returnNameOfFirst())
