@@ -16,8 +16,12 @@ fun main() {
 
     val city = City(buildings)
 
+    println(newHouse.numberOfFlat.toString())
+    println("Lopata")
+
+
+    println("ahoj")
     println(city.returnNumberOfBuilding().toString())
     println(city.returnNameOfFirst())
     println(house.isNumberOfFlatNotZero().toString())
-    println(school.getWall())
-}
+    println(school.getWall())}
